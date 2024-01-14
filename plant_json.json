@@ -54,8 +54,8 @@
         },
         {
             "name": "Aloe Vera",
-            "descrip": "Known for its skin-soothing properties; can be consumed for potential health benefits.",
-            "benefits": "May have skin-soothing properties and potential health benefits when consumed.",
+            "descrip": "Aloe vera is gel from the leaves of aloe plants. People have used it for thousands of years for healing and softening the skin. Aloe has also long been a folk treatment for many maladies, including constipation and skin disorders. Modern-day research into aloe vera's benefits is mixed, with some evidence showing it can cause cancer in lab animals. There are no foods that contain aloe vera, so it must be taken in supplement or gel form.",
+            "benefits": "Aloe vera is a medicinal plant with antioxidant and antibacterial properties. Aloe vera benefits can include reducing dental plaque, accelerating wound healing, preventing wrinkles, and managing blood sugar.",
             "side": "Excessive consumption of Aloe Vera latex may lead to digestive discomfort and potential laxative effects.",
             "images": [
                 "images\/alovera.jpg"
@@ -64,17 +64,17 @@
             "commentCount": 0,
             "comments": [
                 {
-                    "user": "jausalcedo",
-                    "text": "hello",
+                    "user": "almueteDessamine",
+                    "text": "help me with my sunburn :)",
                     "timestamp": "2024-01-12 02:21:21"
                 },
                 {
-                    "user": "jausalcedo",
-                    "text": "asdfasdf",
+                    "user": "elijahtry123",
+                    "text": "good to use in hair as well",
                     "timestamp": "2024-01-12 04:01:17"
                 },
                 {
-                    "user": "jausalcedo",
+                    "user": "Jessica123",
                     "text": "hello aloe vera",
                     "timestamp": "2024-01-12 04:05:32"
                 }
@@ -164,8 +164,8 @@
         },
         {
             "name": "Basil",
-            "descrip": "Basil leaves are glossy and oval-shaped, with smooth or slightly toothed edges that typically cup slightly; the leaves are arranged oppositely along the square stems. The small flowers are borne in terminal clusters and range in colour from white to magenta.",
-            "benefits": "May add flavor to dishes, .",
+            "descrip": "Basil leaves are glossy and oval-shaped, with smooth or slightly toothed edges that typically cup slightly; the leaves are arranged oppositely along the square stems. Also known as Saint Joseph’s wort, basil is a member of the mint family, Lamiaceae, and is native to tropical regions in India, Asia, and Africa. It contains a variety of constituents with a surprising range of benefits, including estragole, eugenol, rosmarinic acid, and geraniol, among others. Fresh tulsi or holy basil leaves have a strong smell and scent, with notes of pepper and mint, as well as a small taste of anise.",
+            "benefits": "May add flavor to dishes,Basil has been shown to have strong effects when it comes to inhibiting the growth of bacteria like E. coli, cholera, staph, listeria, and Shigella. This is due to the presence of various oils and constituents that give it a strong aroma along with antimicrobial properties. .",
             "side": "risk of getting liver cancer, increase bleeding, slow blood clotting.",
             "images": [
                 "images\/Basil.jpg"

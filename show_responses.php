@@ -105,7 +105,7 @@ $conn->close();
         }
         ?>
         <div class="btn-container ">
-          
+        <a href="show_questionnaire.php" class="btn btn-primary">Edit</a>
             <a href="thank_you.php" class="btn btn-primary">Next</a>
         </div>
     </div>
