@@ -1,0 +1,560 @@
+{
+  "Aloe Vera": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Monocots"
+      ],
+      "Order": "Asparagales",
+      "Family": "Asphodelaceae",
+      "Subfamily": "Asphodeloideae",
+      "Genus": "Aloe",
+      "Species": "A. vera",
+      "Binomial name": "Aloe vera"
+  },
+  "Ampalaya": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Cucurbitales",
+      "Family": "Cucurbitaceae",
+      "Genus": "Momordica",
+      "Species": "M. charantia",
+      "Binomial name": "Momordica charantia"
+  },
+  "Averrhoa bilimbi": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Oxalidales",
+      "Family": "Oxalidaceae",
+      "Genus": "Averrhoa",
+      "Species": "A. bilimbi",
+      "Binomial name": "Averrhoa bilimbi"
+  },
+  "Banaba": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Asterids"
+      ],
+      "Order": "Lamiales",
+      "Family": "Lamiaceae",
+      "Genus": "Lagerstroemia",
+      "Species":	"L. speciosa",
+      "Binomial name": "Lagerstroemia speciosa"
+  },
+  "Basil": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Asterids"
+      ],
+      "Order": "Lamiales",
+      "Family": "Lamiaceae",
+      "Genus": "Ocimum",
+      "Species":	"O. basilicum",
+      "Binomial name": "Ocimum basilicum"
+  },
+  "Calabash gourd": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Cucurbitales",
+      "Family": "Cucurbitaceae",
+      "Genus": "Lagenaria",
+      "Species":	"L. speciosa",
+      "Binomial name": "Lagenaria siceraria (Molina) Standl"
+  },
+  "Calamansi": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Sapindales",
+      "Family": "Rutaceae",
+      "Genus": "Citrus",
+      "Binomial name": "Citrus × microcarpa"
+  },
+  "Calendula": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Asterids"
+      ],
+      "Order": "Asterales",
+      "Family": "Asteraceae",
+      "Genus": "Calendula",
+      "Binomial name": "Calendula officinalis L."
+  },
+  "Coconut": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Monocots"
+      ],
+      "Order": "Arecales",
+      "Family": "Arecaceae",
+      "Genus": "Cocos",
+      "Binomial name": "Cocos nucifera L."
+  },
+  "Dandelion": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Asterids"
+      ],
+      "Order": "Asterales",
+      "Family": "Asteraceae",
+      "Genus": "Taraxacum",
+      "Binomial name": "Taraxacum officinale"
+  },
+  "Eggplant": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Asterids"
+      ],
+      "Order": "Solanales",
+      "Family": "Solanaceae",
+      "Genus": "Solanum",
+      "Binomial name": "Solanum melongena L."
+  },
+  "Garlic": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Monocots"
+      ],
+      "Order": "Asparagales",
+      "Family": "Amaryllidaceae",
+      "Subfamily": "Allioideae",
+      "Genus": "Allium",
+      "Species": "A. sativum",
+      "Binomial name": "Allium sativum L."
+  },
+  "Ginkgo Biloba": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Ginkgophytes",
+          "Ginkgoopsida"
+      ],
+      "Order": "Ginkgoales",
+      "Family": "Ginkgoaceae",
+      "Genus": "Ginkgo",
+      "Binomial name": "Ginkgo biloba L."
+  },
+  "Green Tea": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Asterids"
+      ],
+      "Order": "Ericales",
+      "Family": "Theaceae",
+      "Genus": "Camellia",
+      "Binomial name": "Camellia sinensis (L.) Kuntze"
+  },
+  "Guava": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Myrtales",
+      "Family": "Myrtaceae",
+      "Genus": "Psidium",
+      "Binomial name": "Psidium guajava L."
+  },
+  "Hawthorn": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Rosales",
+      "Family": "Rosaceae",
+      "Genus": "Crataegus",
+      "Binomial name": "Crataegus monogyna"
+  },
+  "Hibiscus rosa-sinensis": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Malvales",
+      "Family": "Malvaceae",
+      "Genus": "Hibiscus",
+      "Species": "H. rosa-sinensis",
+      "Binomial name": "Hibiscus rosa-sinensis L."
+  },
+  "Kalabasa": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Cucurbitales",
+      "Family": "Cucurbitaceae",
+      "Genus": "Cucurbita",
+      "Binomial name": "Cucurbita maxima L."
+  },
+  "Katuday": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Asterids"
+      ],
+      "Order": "Lamiales",
+      "Family": "Acanthaceae",
+      "Genus": "Asystasia",
+      "Binomial name": "Sesbania grandiflora"
+  },
+  "Lavender": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Asterids"
+      ],
+      "Order": "Lamiales",
+      "Family": "Lamiaceae",
+      "Genus": "Lavandula",
+      "Binomial name": "Lavandula angustifolia Mill."
+  },
+  "Lemon Balm": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Asterids"
+      ],
+      "Order": "Lamiales",
+      "Family": "Lamiaceae",
+      "Genus": "Melissa",
+      "Binomial name": "Melissa officinalis L."
+  },
+  "Lemongrass": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Monocots"
+      ],
+      "Order": "Poales",
+      "Family": "Poaceae",
+      "Genus": "Cymbopogon",
+      "Binomial name": "Cymbopogon citratus"
+  },
+  "Licorice root": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Fabales",
+      "Family": "Fabaceae",
+      "Genus": "Glycyrrhiza",
+      "Binomial name": "Glycyrrhiza glabra L."
+  },
+  "Malunggay": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Brassicales",
+      "Family": "Moringaceae",
+      "Genus": "Moringa",
+      "Binomial name": "Moringa oleifera Lam."
+  },
+  "Mangosteen": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Malpighiales",
+      "Family": "Clusiaceae",
+      "Genus": "Garcinia",
+      "Binomial name": "Garcinia mangostana"
+  },
+  "Nasturtium": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Brassicales",
+      "Family": "Tropaeolaceae",
+      "Genus": "Tropaeolum",
+      "Binomial name": "Nasturtium microphyllum (Boenn.)"
+  },
+  "Orchid": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Monocots"
+      ],
+      "Order": "Asparagales",
+      "Family": "Orchidaceae",
+      "Genus": "Orchis",
+      "Binomial name": "Orchidaceae"
+  },
+  "Pandan": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Monocots"
+      ],
+      "Order": "Pandanales",
+      "Family": "Pandanaceae",
+      "Genus": "Pandanus",
+      "Binomial name": "Pandanus amaryllifolius Roxb."
+  },
+  "Papaya": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Caricacea",
+      "Family": "Caricaceae",
+      "Genus": "Carica",
+      "Binomial name": "Carica papaya L."
+  },
+  "Passionflower": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Eudicots",
+          "Rosids"
+      ],
+      "Order": "Malpighiales",
+      "Family": "Passifloraceae",
+      "Genus": "Passiflora",
+      "Binomial name": "Passiflora edulis "
+  },
+  "Peace Lily": {
+      "Kingdom": "Plantae",
+      "Clade": [
+          "Tracheophytes",
+          "Angiosperms",
+          "Monocots"
+      ],
+      "Order": "Alismatales",
+      "Family": "Araceae",
+      "Genus": "Spathiphyllum",
+      "Binomial name": "Spathiphyllum wallisii"
+  },
+
+  "Peppermint": {
+    "Kingdom": "Plantae",
+    "Clade": [
+      "Tracheophytes",
+      "Angiosperms",
+      "Eudicots",
+      "Asterids"
+    ],
+    "Order": "Lamiales",
+    "Family": "Lamiaceae",
+    "Genus": "Mentha",
+    "Species": "M. × piperita",
+    "Binomial name": "Mentha × piperita"
+  },
+  "Rosemary": {
+    "Kingdom": "Plantae",
+    "Clade": [
+      "Tracheophytes",
+      "Angiosperms",
+      "Eudicots",
+      "Asterids"
+    ],
+    "Order": "Lamiales",
+    "Family": "Lamiaceae",
+    "Genus": "Rosmarinus",
+    "Species": "R. officinalis",
+    "Binomial name": "Rosmarinus officinalis"
+  },
+  "Sambong": {
+    "Kingdom": "Plantae",
+    "Clade": [
+      "Tracheophytes",
+      "Angiosperms",
+      "Eudicots",
+      "Asterids"
+    ],
+    "Order": "Lamiales",
+    "Family": "Lamiaceae",
+    "Genus": "Blumea",
+    "Species": "B. balsamifera",
+    "Binomial name": "Blumea balsamifera"
+  },
+  "Sampaguita": {
+    "Kingdom": "Plantae",
+    "Clade": [
+      "Tracheophytes",
+      "Angiosperms",
+      "Eudicots",
+      "Asterids"
+    ],
+    "Order": "Gentianales",
+    "Family": "Oleaceae",
+    "Genus": "Jasminum",
+    "Species": "J. sambac",
+    "Binomial name": "Jasminum sambac"
+  },
+  "Serpentina": {
+    "Kingdom": "Plantae",
+    "Clade": [
+      "Tracheophytes",
+      "Angiosperms",
+      "Eudicots",
+      "Asterids"
+    ],
+    "Order": "Gentianales",
+    "Family": "Apocynaceae",
+    "Genus": "Rauvolfia",
+    "Species": "R. serpentina",
+    "Binomial name": "Rauvolfia serpentina"
+  },
+  "Sili": {
+    "Kingdom": "Plantae",
+    "Clade": [
+      "Tracheophytes",
+      "Angiosperms",
+      "Eudicots",
+      "Asterids"
+    ],
+    "Order": "Solanales",
+    "Family": "Solanaceae",
+    "Genus": "Capsicum",
+    "Species": "C. annuum",
+    "Binomial name": "Capsicum annuum"
+  },
+  "Tamarind": {
+    "Kingdom": "Plantae",
+    "Clade": [
+      "Tracheophytes",
+      "Angiosperms",
+      "Eudicots",
+      "Rosids"
+    ],
+    "Order": "Fabales",
+    "Family": "Fabaceae",
+    "Genus": "Tamarindus",
+    "Species": "T. indica",
+    "Binomial name": "Tamarindus indica"
+  },
+  "Taro": {
+    "Kingdom": "Plantae",
+    "Clade": [
+      "Tracheophytes",
+      "Angiosperms",
+      "Monocots"
+    ],
+    "Order": "Alismatales",
+    "Family": "Araceae",
+    "Genus": "Colocasia",
+    "Species": "C. esculenta",
+    "Binomial name": "Colocasia esculenta"
+  },
+  "Tawa-tawa": {
+    "Kingdom": "Plantae",
+    "Clade": [
+      "Tracheophytes",
+      "Angiosperms",
+      "Eudicots",
+      "Rosids"
+    ],
+    "Order": "Lamiales",
+    "Family": "Euphorbiaceae",
+    "Genus": "Euphorbia",
+    "Species": "E. hirta",
+    "Binomial name": "Euphorbia hirta"
+  },
+  "Turmeric": {
+    "Kingdom": "Plantae",
+    "Clade": [
+      "Tracheophytes",
+      "Angiosperms",
+      "Monocots"
+    ],
+    "Order": "Zingiberales",
+    "Family": "Zingiberaceae",
+    "Genus": "Curcuma",
+    "Species": "C. longa",
+    "Binomial name": "Curcuma longa"
+  },
+  "Vitex negundo": {
+    "Kingdom": "Plantae",
+    "Clade": [
+      "Tracheophytes",
+      "Angiosperms",
+      "Eudicots",
+      "Asterids"
+    ],
+    "Order": "Lamiales",
+    "Family": "Lamiaceae",
+    "Genus": "Vitex",
+    "Species": "V. negundo",
+    "Binomial name": "Vitex negundo"
+  }
+}

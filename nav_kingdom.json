@@ -1,0 +1,139 @@
+{
+    "kingdoms": {
+        "Thallophyta": {
+            "description": "Thallophytes are a polyphyletic group of non-mobile organisms that are grouped together on the basis of similarity of characteristics but do not share a common ancestor. They were formerly categorized as a sub-kingdom of kingdom Plantae. These include lichens, algae, fungus, bacteria and slime moulds and bryophytes.",
+            "characteristics": [
+                "They are usually found in moist or wet places.",
+                "This is due to the absence of 'true roots' and vascular tissue that is needed to transport water and minerals. Hence, they are found in moist or wet places.",
+                "They are autotrophic in nature.",
+                "Most members of this group manufacture their own food. But a few members like fungi are dependent on other sources of food.",
+                "Reserve food is generally starch.",
+                "After photosynthesis, glucose is produced and consumed almost immediately, the remaining glucose is converted into complex compounds called starch.",
+                "They have a cell wall composed of cellulose around their cells.",
+                "Absence of vascular tissue. Unlike other plants, xylem and phloem are absent. etc",
+                "Sex organs are simple, single-celled, there is no embryo formation after fertilization."
+            ],
+            "classification": [
+                {
+                    "name": "Algae",
+                    "description": "They are chlorophyll-bearing thalloid. They are autotrophic and largely aquatic plants. On a side note, it has been observed that green algae form a symbiotic relationship with sloths that are native to the lush tropical rainforests of South America and Central America. Sloth fur is very coarse and readily absorbs water. As a result, sloth fur forms a moist and damp environment for the algae to flourish. The algae, in return, provide the sloth with extra nutrition and camouflage from predators. Example: Spirogyra."
+                },
+                {
+                    "name": "Fungi",
+                    "description": "They are achlorophyllous (meaning: they do not produce chlorophyll) heterotrophic thallophytes. Sometimes, to overcome this handicap, fungi may develop a symbiotic relationship with an alga or a cyanobacterium. The algae can produce food as it has chlorophyll and the fungi, in return, provide a safe environment that shields the algae from UV rays. Lichen is an example where two organisms act as a single unit."
+                }
+            ]
+        },
+        "Bryophyta": {
+            "description": "Bryophyte, traditional name for any nonvascular seedless plant—namely, any of the mosses (division Bryophyta), hornworts (division Anthocerotophyta), and liverworts (division Marchantiophyta). Most bryophytes lack complex tissue organization, yet they show considerable diversity in form and ecology. They are widely distributed throughout the world and are relatively small compared with most seed-bearing plants.",
+            "characteristics": [
+                "They lack complex tissue organization.",
+                "They are relatively small compared with most seed-bearing plants.",
+                "They show considerable diversity in form and ecology.",
+                "They are widely distributed throughout the world.",
+                "Most bryophytes lack a vascular system.",
+                "They reproduce through spores instead of seeds."
+            ],
+            "classification": [
+                {
+                    "name": "Mosses",
+                    "description": "Mosses are tiny, flowerless plants that belong to the Bryophyta division, alongside liverworts and hornworts. They lack xylem and phloem-like vascular systems and primarily absorb water and nutrients through their leaves. They typically grow in bunches or mats on the forest floor in wet, shaded areas."
+                },
+                {
+                    "name": "Liverworts",
+                    "description": "Liverworts, like mosses, are land plants that do not have a vascular system. The lack of veinlike tubes to conduct moisture and nutrients throughout the plant limits them to a small size. Like ferns, they produce spores instead of seeds. Their form of reproduction usually requires them to be in wet or moist places."
+                },
+                {
+                    "name": "Hornworts",
+                    "description": "A hornwort is a flowerless, spore-producing plant - with the spores typically produced in a tapering, horn-like or needle-like capsule which develops from a flattish, green sheet."
+                }
+            ]
+        },
+        "Pteridophyta": {
+            "description": "Before the flowering plants, the landscape was dominated with plants that looked like ferns for hundreds of millions of years. Pteridophytes show many characteristics of their ancestors. Unlike most other members of the Plant Kingdom, pteridophytes don’t reproduce through seeds, they reproduce through spores instead.",
+            "characteristics": [
+                "Pteridophytes are considered as the first plants to be evolved on land.",
+                "They are cryptogams, seedless, and vascular.",
+                "The plant body has true roots, stem, and leaves.",
+                "Spores develop in sporangia. They are usually homosporous but can also be heterosporous.",
+                "Sporangia are produced in groups on sporophylls. The tip of the leaves tends to curl inwards to protect the vulnerable growing parts.",
+                "Sex organs are multicellular, with male sex organs called antheridia and female sex organs called archegonia.",
+                "They show true alternation of generations. The diploid sporophyte is the main plant body."
+            ],
+            "classification": [
+                {
+                    "name": "Psilopsida",
+                    "description": "They are the most primitive. The stem is photosynthetic and dichotomously branched. Rhizoids are present. Leaves are mostly absent. The sporophyte is homosporous synangium. Examples: Psilotum and Tmesipteris."
+                },
+                {
+                    "name": "Lycopsida",
+                    "description": "Commonly known as club moss. Well-differentiated plant body with adventitious root, stem, rhizophores, and leaves. The sporophyte is homosporous or heterosporous. Examples: Selaginella, Lycopodium."
+                },
+                {
+                    "name": "Sphenopsida",
+                    "description": "Commonly known as horsetail. Well-differentiated plant body with roots arising from nodes of the underground rhizome, stem, and scaly leaves. Homosporous, sporangia are borne on strobili. Examples: Equisetum."
+                },
+                {
+                    "name": "Pteropsida",
+                    "description": "Commonly known as a fern. Well-differentiated plant body with roots, stem, and leaves. The sporophyte is homosporous or heterosporous. Antherozoids are multiflagellate. Examples: Pteris, Dryopteris, Adiantum."
+                }
+            ]
+        },
+        
+        "Gymnosperms": {
+            "description": "Gymnosperms are seed-producing plants with 'naked' seeds, not enclosed in an ovary. Examples include conifers, cycads, and ginkgoes.",
+            "characteristics": [
+                "They are seed-producing plants.",
+                "Their seeds are 'naked,' not enclosed in an ovary.",
+                "Examples include conifers, cycads, and ginkgoes."
+            ],
+            "classification": [
+                {
+                    "name": "Conifers",
+                    "description": "Conifers are a group of gymnosperms that bear their seeds in cones. They are typically evergreen and include well-known species like pine, spruce, fir, and cedar. Conifers are important timber and paper-producing plants."
+                },
+                {
+                    "name": "Cycads",
+                    "description": "Cycads are palm-like gymnosperms with a stout and woody trunk topped with a crown of large, compound leaves. They are often considered living fossils as they have a long evolutionary history dating back to the Jurassic period."
+                },
+                {
+                    "name": "Ginkgoes",
+                    "description": "Ginkgoes are unique gymnosperms represented by a single living species, Ginkgo biloba. They have distinctive fan-shaped leaves and are known for their resilience and resistance to pests and diseases. Ginkgoes are often planted as ornamental trees."
+                }
+            ]
+        },
+        "Angiosperms": {
+            "description": "Angiosperms are vascular plants with stems, roots, and leaves. The seeds of the angiosperm are found in a flower. These make up the majority of all plants on earth. The seeds develop inside the plant organs and form fruit. Hence, they are also known as flowering plants. Angiosperms are the most advanced and beneficial group of plants. They can grow in various habitats as trees, herbs, shrubs, and bushes.",
+            "characteristics": [
+                "All plants have flowers at some stage in their life. The flowers are the reproductive organs for the plant, providing them with a means of exchanging genetic information.",
+                "The sporophyte is differentiated into stems, roots, and leaves.",
+                "The vascular system has true vessels in the xylem and companion cells in the phloem.",
+                "The stamens (microsporophyll) and the carpels (megasporophyll) are organized into a structure called the flower.",
+                "Each microsporophyll has four microsporangia.",
+                "The ovules are enclosed in the ovary at the base of the megasporophyll.",
+                "Angiosperms are heterosporous, i.e., produce two kinds of spores, microspore (pollen grains) and megaspores.",
+                "A single functional megaspore is permanently retained within the nucellus.",
+                "The pollen grains transfer from the anther to stigma and reproduction takes place by pollination. They are responsible for the transfer of genetic information from one flower to the other. The pollen grains are much smaller than the gametophytes or reproductive cells present in the non-flowering plants.",
+                "The sporophytes are diploid.",
+                "The root system is very complex and consists of cortex, xylem, phloem, and epidermis.",
+                "The flowers undergo double and triple fusion which leads to the formation of a diploid zygote and triploid endosperm.",
+                "Angiosperms can survive in a variety of habitats, including marine habitats.",
+                "The process of fertilization is quicker in angiosperms. The seeds are also produced quickly due to the smaller female reproductive parts.",
+                "All angiosperms are comprised of stamens which are the reproductive structures of the flowers. They produce the pollen grains that carry the hereditary information.",
+                "The carpels enclose developing seeds that may turn into a fruit.",
+                "The production of the endosperm is one of the greatest advantages of angiosperms. The endosperm is formed after fertilization and is a source of food for the developing seed and seedling."
+            ],
+            "classification": [
+                {
+                    "name": "Monocotyledons",
+                    "description": "The seeds have a single cotyledon. The leaves are simples and the veins are parallel. This group contains adventitious roots. Each floral whorl has three members. It has closed vascular bundles and large in number. For example, banana, sugarcane, lilies, etc."
+                },
+                {
+                    "name": "Dicotyledons",
+                    "description": "The seeds of these plants have two cotyledons. They contain tap roots, instead of adventitious roots. The leaves depict a reticulate venation. The flowers are tetramerous or pentamerous and the vascular bundles are organized in rings. For example, grapes, sunflower, tomatoes, etc."
+                }
+            ]
+        }
+        
+    }
+}
