@@ -178,28 +178,16 @@
         } else {
             echo "<p>Plant not specified.</p>";
         }
+
+
+
+
         ?>
         <br>
         <br>
-        <h3>Comments:</h3>
-        <?php
-        if (isset($selectedPlant['comments']) && is_array($selectedPlant['comments']) && count($selectedPlant['comments']) > 0) {
-            echo "<ul>";
-            foreach ($selectedPlant['comments'] as $comment) {
-                echo "<li>{$comment['text']} - {$comment['timestamp']}</li>";
-            }
-            echo "</ul>";
-        } else {
-            echo "<p>No comments yet.</p>";
-        }
-        ?>
-            <h3>Comments:</h3>
-    <form method="post" action="process_comment.php">
-        <input type="hidden" name="plant_name" value="<?php echo htmlspecialchars($_GET['plant']); ?>">
-        <textarea name="comment" placeholder="Add your comment..." rows="4" cols="50"></textarea><br>
-        <input type="submit" value="Submit Comment">
-    </form>
-    </div>
+
+
+    </div> 
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>

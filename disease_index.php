@@ -4,7 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/style.css">
-    <style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+
+        if (localStorage.getItem("disease_index.php") != null) {
+            $(window).scrollTop(localStorage.getItem("disease_index.php"));
+        }
+
+        $(window).on("scroll", function() {
+            localStorage.setItem("disease_index.php", $(window).scrollTop());
+        });
+
+        });
+    </script>
+   
+   <style>
         body {
             background-image: url('logo/bg.jpg');
             background-size: cover;
@@ -97,6 +112,9 @@
     <input type="text" id="search-bar" onkeyup="filterDiseases()" placeholder="Search for diseases">
 
     <ul class="list-container">
+    
+
+
         <?php
             // Your existing PHP code
             $jsonData = file_get_contents('disease.json');
@@ -111,5 +129,10 @@
             }
         ?>
     </ul>
+    
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </body>
 </html>

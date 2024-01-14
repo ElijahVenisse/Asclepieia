@@ -6,6 +6,20 @@
     <title>Plant Dictionary Admin</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+
+        if (localStorage.getItem("homepage.php") != null) {
+            $(window).scrollTop(localStorage.getItem("homepage.php"));
+        }
+
+        $(window).on("scroll", function() {
+            localStorage.setItem("homepage.php", $(window).scrollTop());
+        });
+
+        });
+    </script>
     <style>
         body {
             background-image: url('logo/bg.jpg');

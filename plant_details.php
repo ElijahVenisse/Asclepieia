@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plant Dictionary Admin</title>
@@ -107,6 +110,9 @@
 }
 
     </style>
+
+
+
 </head>
 
 <body>
@@ -115,7 +121,13 @@
 <a id='btn-back' href="display_plants.php" class="btn fixed-top-btn">
     <i class="fas fa-arrow-left"></i>
 </a>
-<div class="container mt-3">
+
+ <!-- Back button with AJAX -->
+
+    <div class="container mt-3" id="plants-container">
+
+
+<!-- <div class="container mt-3"> -->
     
     <?php
     if (isset($_GET['id'])) {
@@ -123,6 +135,8 @@
 
         $jsonData = file_get_contents('plant_json.json');
         $data = json_decode($jsonData, true);
+
+        
 
         if (isset($data['herb'])) {
             $plants = is_array($data['herb']) ? $data['herb'] : array_values($data['herb']);
@@ -248,7 +262,12 @@ function showKingdomDetails(plantName) {
         xhttp.open("GET", "kingdom_details.php?plant_name=" + plantName, true);
         xhttp.send();
     }
+
+
+ 
 }
+
+
 
 
     </script>

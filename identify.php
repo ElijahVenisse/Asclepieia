@@ -38,7 +38,9 @@ function encodeImages($images){
 }
 
 function identifyPlants($file_names){
-    $api_key = "gtl0pyQO6i27Xx7gbmf1BImPGn6cqGaWhIMCz84qiUO7aWfeba"; 
+    // $api_key = "gtl0pyQO6i27Xx7gbmf1BImPGn6cqGaWhIMCz84qiUO7aWfeba"; 
+
+    $api_key = "9DvxhwYpPc8XQMnAIfm3COeq2nzPp2wP6UY3Mo0Hk1nOoWrn6Z"; 
 
     $encoded_images = encodeImages($file_names);
 

@@ -17,7 +17,7 @@
             "images": [
                 "images\/Tawa-tawa.jpg"
             ],
-            "clickCount": 94,
+            "clickCount": 99,
             "commentCount": 0,
             "comments": [
                 {
@@ -60,7 +60,7 @@
             "images": [
                 "images\/alovera.jpg"
             ],
-            "clickCount": 41,
+            "clickCount": 43,
             "commentCount": 0,
             "comments": [
                 {
@@ -88,7 +88,7 @@
             "images": [
                 "images\/Turmeric.jpeg"
             ],
-            "clickCount": 25,
+            "clickCount": 27,
             "commentCount": 0,
             "comments": [
                 {
@@ -164,7 +164,7 @@
         },
         {
             "name": "Basil",
-            "descrip": "Basil leaves are glossy and oval-shaped, with smooth or slightly toothed edges that typically cup slightly; the leaves are arranged oppositely along the square stems. Also known as Saint Joseph’s wort, basil is a member of the mint family, Lamiaceae, and is native to tropical regions in India, Asia, and Africa. It contains a variety of constituents with a surprising range of benefits, including estragole, eugenol, rosmarinic acid, and geraniol, among others. Fresh tulsi or holy basil leaves have a strong smell and scent, with notes of pepper and mint, as well as a small taste of anise.",
+            "descrip": "Basil leaves are glossy and oval-shaped, with smooth or slightly toothed edges that typically cup slightly; the leaves are arranged oppositely along the square stems. Also known as Saint Joseph\u2019s wort, basil is a member of the mint family, Lamiaceae, and is native to tropical regions in India, Asia, and Africa. It contains a variety of constituents with a surprising range of benefits, including estragole, eugenol, rosmarinic acid, and geraniol, among others. Fresh tulsi or holy basil leaves have a strong smell and scent, with notes of pepper and mint, as well as a small taste of anise.",
             "benefits": "May add flavor to dishes,Basil has been shown to have strong effects when it comes to inhibiting the growth of bacteria like E. coli, cholera, staph, listeria, and Shigella. This is due to the presence of various oils and constituents that give it a strong aroma along with antimicrobial properties. .",
             "side": "risk of getting liver cancer, increase bleeding, slow blood clotting.",
             "images": [
@@ -193,7 +193,14 @@
                 "images\/lagundi - Copy - Copy.jpg"
             ],
             "clickCount": 7,
-            "commentCount": 0
+            "commentCount": 0,
+            "comments": [
+                {
+                    "user": "a",
+                    "text": "try",
+                    "timestamp": "2024-01-14 11:09:07"
+                }
+            ]
         },
         {
             "name": "Calamansi",
@@ -368,7 +375,7 @@
             "commentCount": 0
         },
         {
-            "name": "Papaya ",
+            "name": "Papaya",
             "descrip": "Carica papaya is the scientific name of the orange and green fruit known more commonly as papaya. It tastes sweet and has a soft texture that many find appealing. The seeds are also edible, although they\u2019re more bitter than the fruit itself.\r\n\r\nPapayas grow best in a tropical region where there is plentiful rainfall but little long-term flooding. Freezing temperatures may damage a papaya crop.\r\n\r\nPapayas are originally from Central America. Indigenous people in that area ate papayas and used them for medicinal purposes. In the 1500s and 1600s, Spanish and Portuguese colonizers brought the seeds to other tropical areas of the globe, including the Philippines and India.",
             "benefits": "Rich in vitamins, especially vitamin C, papaya aids digestion due to enzymes like papain. It contributes to overall health and well-being.",
             "side": " Excessive consumption of papaya seeds may be toxic. Some individuals may be allergic to latex found in unripe papaya. It&#039;s essential to moderate intake.",
