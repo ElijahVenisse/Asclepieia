@@ -487,7 +487,7 @@ $blogs = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <body>
     <?php include("bg.php"); ?>
     <a href="show_responses.php">View Previous Questionnaire Responses</a>
-
+    <h2><br>Posts</h2>
     <div class="container mt-5">
         <div class="row">
             <?php if (count($blogs) > 0): ?>

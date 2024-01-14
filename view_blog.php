@@ -284,7 +284,7 @@ unset($comment);
                 <?php if ($blogEntry['rating'] > 0): ?>
                     <div class="rating">
 
-                                <h3>Rating:</h3>
+                                <h3>Effectiveness of the plant:</h3>
                                 <?php for ($i = 1; $i <= 5; $i++): ?>
                                     <?php if ($i <= $blog['rating']): ?>
                                         <span class="star" style="color: orange;">&#9733;</span>
